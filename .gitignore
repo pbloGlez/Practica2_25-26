@@ -1,0 +1,14 @@
+#node_modules
+node_modules/
+
+#Dist/compiled files
+dist/
+
+#logs
+*.log
+
+#VS Code settings
+.vscode/
+
+#Sistema operativo
+.DS_Store
